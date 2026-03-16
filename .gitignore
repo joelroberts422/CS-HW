@@ -1,0 +1,4 @@
+/venv
+/runs
+/data
+*.svg, *.png, *.jpg, *.jpeg
